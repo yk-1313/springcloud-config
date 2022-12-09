@@ -1,2 +1,2 @@
 config:
-  888
+    info: "springcloud-config,version=1"
